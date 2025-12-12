@@ -5,10 +5,10 @@ public class Main {
       String Lebron = "GOAT";
       //Strings are actually objects
       //OG way to make string
-      String steph = new string(""GOAT"");
+      String steph = new string(" fake GOAT");
 
       //ALL objects can be created using this pattern
       //ClassName objectName = New Classname();
-      buildABear kitty = new buildABear("Cat");
+      BuildABear kitty = new BuildABear();
    }
 }
